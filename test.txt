@@ -1,0 +1,6 @@
+Hospital,"Age, years","Gender M:0, F:1",Hemoglobin g/dL,Platelet count per mcL,Cholesterol mg/dL,Low density lipoprotein mg/dL,High density lipoprotein mg/DL,Triglycerides mg/dL,Blood glucose mg/dL,Albumin gr/dL,Indirect bilirubin mg/dL,International normalised ratio ,Total Bilirubin mg/dL,Alanine transaminase U/L,Aspartate transaminase U/L,Alkaline phosphatase U/L,NAS Score (steatosis score ) ,NAS Score (ballooning score ),NAS Score (inflammation score),NAS Score total score,Steatosis grade (USG) ,Fibrosis stage,"Weight, kilogram","Height, meter",Body mass index,Type 2 Diabetes Mellitus ,Systemic arterial hypertension ,Metabolic Syndrome,Cardiovascular disease,Hepatocelullar carcinoma
+MS,50,1,14,256,215,135,32,156,116,4,0.6,1,1.2,32,28,56,2,2,1,5,2,F0,78,1.52,33.76038781,0,1,1,0,0
+MS,45,0,13.6,316,180,110,30,189,92,4.5,0.4,1,1.1,56,45,62,3,2,3,8,3,F0,74,1.51,32.4547169,1,0,1,0,0
+MS,56,1,16,54,146,47,25,43,155,2.82,1.6,1.1,2.6,25,28,163,3,1,2,6,2,F4,64,1.43,31.29737395,1,0,1,0,0
+MS,52,0,14.9,72,140,110,35,127,92,2.6,0.93,1,1.23,41,44,100,3,1,1,5,2,F3,73.5,1.63,27.66381874,0,1,0,0,0
+MS,60,1,15.6,312,199,118,37,203,148,3.6,0.42,1,0.52,31,30,156,2,2,2,6,2,F0,71,1.5,31.55555556,1,0,1,0,0
