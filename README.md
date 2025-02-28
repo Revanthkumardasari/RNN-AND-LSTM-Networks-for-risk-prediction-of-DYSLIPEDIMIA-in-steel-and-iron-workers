@@ -1,0 +1,2 @@
+# RNN-AND-LSTM-Networks-for-risk-prediction-of-DYSLIPEDIMIA-in-steel-and-iron-workers
+◦ This involves predicting the risk of dyslipidemia among iron and steel workers using RNN and LSTM algorithms to help eliminate the disease. The research focuses on combining AI and Big Data for disease risk prediction. This research aims to predict the risk of dyslipidemia in iron and steel workers using RNN and LSTM algorithms .
